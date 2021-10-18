@@ -13,7 +13,7 @@ yf = lambda x: x**2 + 3 - x # Funkcja
 x=np.arange(-10,10,0.1)
 y=yf(x)
 
-plt.figure(figsize=(3,3), dpi=10
+plt.figure(figsize=(3,3), dpi=100)
 plt.xlabel('x')
 plt.ylabel('y')
 plt.axhline(y=0, color="#cccccc")
