@@ -10,7 +10,7 @@ no_test = 5
 # for the training and test set, a value from range (0, 1)
 # for validation, an integral value in the range (1, infinity)
 # other values ​​raise an error
-factor = 0.55
+factor = 5
 mean_error = 0
 
 for x in range(no_test):
